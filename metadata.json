@@ -1,0 +1,5 @@
+{
+  "name": "QuickSum AI",
+  "description": "A minimalist AI tool that transforms long text into concise, 5-bullet point summaries.",
+  "requestFramePermissions": []
+}
